@@ -1,5 +1,5 @@
 # DevOpsJenkins
 
 # COMP367 - DevOps
-Tannus
+Tannus Esquerdo
 #301288342
